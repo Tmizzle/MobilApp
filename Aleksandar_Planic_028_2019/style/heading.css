@@ -1,0 +1,11 @@
+@charset "utf-8";
+h1, h2, h3, h4, h5, h6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+h3 {
+	font-size: 20px;
+}
+#sidebar .sideblock h3 {
+	font-size: 18px;
+}
